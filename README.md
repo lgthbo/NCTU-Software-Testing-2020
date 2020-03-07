@@ -11,6 +11,7 @@ Shih-Kun Huang, Email: skhuang@cs.nctu.edu.tw ext: 31703
 ## TAs
 
 黃品曄 Pin-Yeh Huang , Email: lgthbo.cs07g@nctu.edu.tw
+
 張軒齊 Hsuan-Chi Chang,  Email: p0756519.cs07g@nctu.edu.tw
 
 ## Course descriptions and objectives
