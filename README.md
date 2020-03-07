@@ -20,3 +20,7 @@ Software testing is to exercise the program using input data in three different 
 ## Textbooks
 
 Paul Ammann and Jeff Offutt, Introduction to Software Testing, 2nd Edition, Cambridge University Press, 2017, https://cs.gmu.edu/~offutt/softwaretest/
+
+## Facebook:  
+
+https://www.facebook.com/groups/softwaretesting.nctu/
