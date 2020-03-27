@@ -65,6 +65,7 @@ public class SoftwareTesting2020 {
     NCTUDatabase MyDatabase;
     Date date;
     SoftwareTesting2020(){
+        this.date = new Date(); // update on 20200327, but old version is also work.
         this.hospital = new Hospital();
     }
     public void setHospital(Hospital theHospital){
