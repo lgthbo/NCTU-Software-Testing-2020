@@ -97,7 +97,7 @@ public class SoftwareTesting2020 {
     //If you really want to donate to this course, connect to professor for further cooperation.
     public String donate(paypalService Paypal){
         String donateResult = Paypal.doDonate();
-        if (donateResult.equals("successed")){
+        if (donateResult.equals("successed") || donateResult.equals("succeed")){
             return "Thanks you";
         }else {
             return "Some Bug occur";
